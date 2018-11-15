@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/ReadOnlyTabStopRemover.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/ReadOnlyTabStopRemover.Module.Win/Model.DesignedDiffs.xafml))
+* [ReadOnlyTabStopController.cs](./CS/ReadOnlyTabStopRemover.Module.Win/ReadOnlyTabStopController.cs) (VB: [ReadOnlyTabStopController.vb](./VB/ReadOnlyTabStopRemover.Module.Win/ReadOnlyTabStopController.vb))
+* [ReadOnlyTabStopHelper.cs](./CS/ReadOnlyTabStopRemover.Module.Win/ReadOnlyTabStopHelper.cs) (VB: [ReadOnlyTabStopHelper.vb](./VB/ReadOnlyTabStopRemover.Module.Win/ReadOnlyTabStopHelper.vb))
+* [WinModule.cs](./CS/ReadOnlyTabStopRemover.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/ReadOnlyTabStopRemover.Module.Win/WinModule.vb))
+<!-- default file list end -->
 # How to skip readonly editors when moving through editors, using the Tab key
 
 
