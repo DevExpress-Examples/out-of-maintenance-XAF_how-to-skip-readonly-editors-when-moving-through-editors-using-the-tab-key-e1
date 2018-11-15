@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ReadOnlyTabStopController.cs](./CS/ReadOnlyTabStopRemover.Module.Win/ReadOnlyTabStopController.cs) (VB: [ReadOnlyTabStopController.vb](./VB/ReadOnlyTabStopRemover.Module.Win/ReadOnlyTabStopController.vb))
+* [WinModule.cs](./CS/ReadOnlyTabStopRemover.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/ReadOnlyTabStopRemover.Module.Win/WinModule.vb))
+* [DemoObject.cs](./CS/ReadOnlyTabStopRemover.Module/DemoObject.cs) (VB: [DemoObject.vb](./VB/ReadOnlyTabStopRemover.Module/DemoObject.vb))
+<!-- default file list end -->
 # How to skip readonly editors when moving through editors, using the Tab key
 
 
